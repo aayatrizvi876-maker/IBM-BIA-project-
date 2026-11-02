@@ -1,0 +1,601 @@
+show_id,title,type,director,country,date_added,release_year,rating,duration,listed_in
+s0001,Sample Title 001,Movie,,Canada,"December 21, 2016",2001,TV-G,91 min,Action
+s0002,Sample Title 002,Movie,Director A,United States,"September 29, 2016",2020,TV-14,179 min,Thriller
+s0003,Sample Title 003,Movie,Director B,United States,"April 01, 2021",2013,TV-PG,104 min,Action
+s0004,Sample Title 004,Movie,Not Listed,India,"September 29, 2021",2009,,127 min,Children
+s0005,Sample Title 005,Movie,Director C,United Kingdom,"May 13, 2016",1994,TV-MA,87 min,Sci-Fi
+s0006,Sample Title 006,Movie,Director C,Spain,"September 25, 2016",1994,TV-MA,95 min,Thriller
+s0007,Sample Title 007,Movie,Director B,South Korea,"August 01, 2019",1991,TV-G,93 min,Thriller
+s0008,Sample Title 008,Movie,Not Listed,India,"July 23, 2020",2017,,127 min,Documentary
+s0009,Sample Title 009,Movie,Director C,United States,"April 25, 2015",2009,PG,93 min,International
+s0010,Sample Title 010,TV Show,Not Listed,Other,"November 04, 2016",2012,PG,1 Seasons,Documentary
+s0011,Sample Title 011,Movie,Not Listed,India,"October 03, 2019",1990,PG,99 min,Documentary
+s0012,Sample Title 012,TV Show,Director B,India,"June 11, 2018",2021,TV-MA,6 Seasons,Sci-Fi
+s0013,Sample Title 013,Movie,Director A,United States,"March 03, 2021",2016,TV-14,105 min,Action
+s0014,Sample Title 014,Movie,Director B,Spain,"April 13, 2021",1996,TV-MA,155 min,Action
+s0015,Sample Title 015,TV Show,Director A,South Korea,"May 27, 2015",1995,PG-13,7 Seasons,Romance
+s0016,Sample Title 016,TV Show,Not Listed,United States,"December 05, 2020",1995,R,7 Seasons,Children
+s0017,Sample Title 017,Movie,Director A,United States,"February 16, 2016",1999,PG,106 min,Sci-Fi
+s0018,Sample Title 018,Movie,Not Listed,South Korea,"August 15, 2019",2006,TV-14,136 min,Romance
+s0019,Sample Title 019,TV Show,Director C,South Korea,"August 07, 2021",2003,TV-PG,2 Seasons,Drama
+s0020,Sample Title 020,TV Show,Director C,United States,"March 13, 2019",1999,TV-G,2 Seasons,Children
+s0021,Sample Title 021,Movie,Director C,Other,"May 17, 2015",2009,TV-PG,174 min,Children
+s0022,Sample Title 022,Movie,Director B,United States,"January 19, 2015",1994,R,146 min,Crime
+s0023,Sample Title 023,Movie,Director B,India,"February 20, 2021",1999,TV-14,128 min,Crime
+s0024,Sample Title 024,Movie,Not Listed,,"July 05, 2021",2001,TV-MA,126 min,Comedy
+s0025,Sample Title 025,Movie,Director C,India,"May 13, 2020",2004,TV-MA,94 min,Comedy
+s0026,Sample Title 026,Movie,Director B,Japan,"January 31, 2021",2015,PG-13,106 min,Documentary
+s0027,Sample Title 027,Movie,Director C,,"September 28, 2017",1996,PG-13,88 min,Drama
+s0028,Sample Title 028,TV Show,Director B,United States,"March 24, 2016",2006,TV-MA,2 Seasons,Thriller
+s0029,Sample Title 029,Movie,Director A,Other,"May 02, 2020",2008,TV-PG,102 min,Thriller
+s0030,Sample Title 030,Movie,Director A,India,"August 03, 2017",1991,TV-G,127 min,Crime
+s0031,Sample Title 031,TV Show,Director C,Other,"October 09, 2018",2009,PG,7 Seasons,Crime
+s0032,Sample Title 032,TV Show,Not Listed,United States,"March 03, 2019",1995,TV-PG,6 Seasons,Crime
+s0033,Sample Title 033,Movie,Director B,United States,"May 21, 2015",1992,TV-G,104 min,Sci-Fi
+s0034,Sample Title 034,Movie,Director B,United States,"April 04, 2020",2020,PG-13,137 min,International
+s0035,Sample Title 035,Movie,,South Korea,"April 03, 2015",2020,R,78 min,Comedy
+s0036,Sample Title 036,Movie,Director A,India,"August 27, 2015",2015,TV-G,151 min,Sci-Fi
+s0037,Sample Title 037,Movie,Not Listed,Mexico,"July 24, 2015",1999,TV-MA,133 min,Action
+s0038,Sample Title 038,Movie,Not Listed,India,"December 27, 2018",1993,PG-13,161 min,Thriller
+s0039,Sample Title 039,Movie,Not Listed,Other,"September 02, 2015",2011,,82 min,Children
+s0040,Sample Title 040,Movie,Director C,United States,"April 11, 2017",2004,PG,156 min,Comedy
+s0041,Sample Title 041,Movie,Director A,Mexico,"October 22, 2015",1993,TV-MA,86 min,Romance
+s0042,Sample Title 042,Movie,Director C,Spain,"May 05, 2017",2005,PG,105 min,Action
+s0043,Sample Title 043,Movie,Director A,Spain,"August 26, 2020",1991,TV-MA,152 min,Comedy
+s0044,Sample Title 044,Movie,Director A,France,"March 12, 2015",2019,PG,108 min,Sci-Fi
+s0045,Sample Title 045,Movie,Director B,Spain,"July 16, 2018",1998,TV-G,156 min,Drama
+s0046,Sample Title 046,TV Show,Director A,Japan,"September 10, 2018",2011,TV-PG,2 Seasons,Children
+s0047,Sample Title 047,Movie,Director A,United States,"November 01, 2015",1999,R,149 min,Comedy
+s0048,Sample Title 048,Movie,Director C,United States,"October 27, 2017",2006,R,179 min,International
+s0049,Sample Title 049,TV Show,Director A,Other,"August 30, 2018",2007,TV-MA,4 Seasons,Crime
+s0050,Sample Title 050,Movie,Director C,Japan,"March 27, 2017",1995,TV-14,123 min,Crime
+s0051,Sample Title 051,Movie,Not Listed,Spain,"January 31, 2018",2021,TV-Y7,153 min,Children
+s0052,Sample Title 052,Movie,Director A,United Kingdom,"March 31, 2017",2014,PG-13,131 min,Sci-Fi
+s0053,Sample Title 053,Movie,Director A,United States,"July 12, 2015",2020,,169 min,Crime
+s0054,Sample Title 054,TV Show,Director C,United States,"November 12, 2019",2018,TV-MA,1 Seasons,Comedy
+s0055,Sample Title 055,Movie,Not Listed,South Korea,"June 12, 2016",2009,TV-G,167 min,Romance
+s0056,Sample Title 056,Movie,Director B,India,"January 27, 2021",2019,PG,100 min,Thriller
+s0057,Sample Title 057,Movie,Not Listed,United States,"September 08, 2015",1992,TV-14,92 min,Thriller
+s0058,Sample Title 058,Movie,Director C,United Kingdom,"November 24, 2019",1996,TV-PG,170 min,Action
+s0059,Sample Title 059,Movie,Not Listed,,"July 19, 2020",1991,PG,160 min,Documentary
+s0060,Sample Title 060,Movie,Director C,Japan,"September 29, 2021",2000,,112 min,Drama
+s0061,Sample Title 061,Movie,Director C,United States,"November 04, 2018",2002,TV-MA,155 min,Children
+s0062,Sample Title 062,TV Show,Director B,,"March 13, 2018",1998,TV-MA,7 Seasons,Action
+s0063,Sample Title 063,Movie,Director A,United States,"September 03, 2020",2016,TV-G,162 min,Documentary
+s0064,Sample Title 064,Movie,Director C,India,"January 01, 2018",2001,PG-13,124 min,Sci-Fi
+s0065,Sample Title 065,Movie,Director C,United States,"January 22, 2020",1998,TV-MA,82 min,International
+s0066,Sample Title 066,Movie,Director B,United States,"May 19, 2016",2007,TV-MA,115 min,International
+s0067,Sample Title 067,Movie,Director C,India,"June 10, 2019",1994,TV-MA,80 min,Drama
+s0068,Sample Title 068,Movie,Director A,India,"July 11, 2021",2015,TV-G,143 min,Crime
+s0069,Sample Title 069,Movie,Director B,Japan,"October 08, 2021",1992,PG-13,118 min,Comedy
+s0070,Sample Title 070,Movie,Director A,United States,"December 21, 2021",2021,TV-PG,138 min,Action
+s0071,Sample Title 071,Movie,Director A,South Korea,"October 19, 2018",2014,TV-PG,103 min,Action
+s0072,Sample Title 072,TV Show,Director B,Mexico,"May 07, 2018",1996,TV-Y7,4 Seasons,Children
+s0073,Sample Title 073,Movie,Director C,Spain,"December 18, 2016",1990,TV-Y7,85 min,Children
+s0074,Sample Title 074,Movie,Director A,United States,"December 05, 2015",2016,TV-MA,139 min,International
+s0075,Sample Title 075,Movie,Director A,United Kingdom,"October 20, 2016",2012,TV-Y7,93 min,International
+s0076,Sample Title 076,TV Show,Director A,United States,"August 19, 2017",2013,PG-13,1 Seasons,Romance
+s0077,Sample Title 077,Movie,Director A,United States,"March 04, 2016",2014,TV-G,101 min,Romance
+s0078,Sample Title 078,Movie,Director B,,"June 17, 2017",1992,TV-PG,108 min,Crime
+s0079,Sample Title 079,TV Show,Director B,United States,"May 19, 2015",2001,PG,4 Seasons,Romance
+s0080,Sample Title 080,TV Show,Not Listed,United Kingdom,"June 25, 2016",1993,TV-PG,4 Seasons,Comedy
+s0081,Sample Title 081,TV Show,,Japan,"October 05, 2020",2017,TV-PG,4 Seasons,Comedy
+s0082,Sample Title 082,Movie,Director A,South Korea,"June 09, 2018",2009,PG-13,156 min,Action
+s0083,Sample Title 083,Movie,Director C,United Kingdom,"October 18, 2021",2000,TV-Y7,89 min,Thriller
+s0084,Sample Title 084,Movie,Director A,United States,"January 19, 2016",1992,PG,125 min,Comedy
+s0085,Sample Title 085,TV Show,Director C,India,"July 13, 2015",1999,PG-13,5 Seasons,Documentary
+s0086,Sample Title 086,Movie,Director A,United Kingdom,"February 10, 2021",2000,TV-MA,157 min,International
+s0087,Sample Title 087,Movie,Not Listed,United States,"March 10, 2020",2013,TV-G,123 min,Children
+s0088,Sample Title 088,Movie,Not Listed,India,"May 28, 2021",2010,R,144 min,Romance
+s0089,Sample Title 089,TV Show,Director C,United States,"January 01, 2017",2018,TV-PG,4 Seasons,Action
+s0090,Sample Title 090,Movie,Director A,United States,"December 03, 2020",2005,R,125 min,Drama
+s0091,Sample Title 091,Movie,Director C,India,"November 15, 2016",1993,TV-G,111 min,Children
+s0092,Sample Title 092,Movie,Not Listed,United States,"March 23, 2015",2012,TV-G,91 min,Documentary
+s0093,Sample Title 093,Movie,Director A,United Kingdom,"July 08, 2021",2014,PG-13,132 min,Romance
+s0094,Sample Title 094,Movie,Director A,South Korea,"July 10, 2021",2007,PG-13,161 min,Documentary
+s0095,Sample Title 095,Movie,Director C,Spain,"June 15, 2016",2014,PG-13,164 min,International
+s0096,Sample Title 096,Movie,Director B,United States,"June 06, 2020",2005,R,103 min,International
+s0097,Sample Title 097,Movie,Director C,United States,"August 09, 2015",2006,PG-13,107 min,Crime
+s0098,Sample Title 098,Movie,Not Listed,United States,"September 26, 2016",2003,TV-G,134 min,Action
+s0099,Sample Title 099,Movie,Not Listed,Japan,"November 05, 2019",1990,TV-MA,165 min,Children
+s0100,Sample Title 100,Movie,Not Listed,South Korea,"June 28, 2021",1993,PG-13,163 min,Sci-Fi
+s0101,Sample Title 101,Movie,Not Listed,United States,"February 18, 2020",1991,TV-14,129 min,Sci-Fi
+s0102,Sample Title 102,Movie,Not Listed,Other,"January 03, 2015",2010,TV-Y7,84 min,Children
+s0103,Sample Title 103,Movie,Director B,United States,"September 14, 2019",2000,R,121 min,Drama
+s0104,Sample Title 104,Movie,,United Kingdom,"July 25, 2015",2006,TV-14,97 min,Action
+s0105,Sample Title 105,Movie,Director C,South Korea,"January 30, 2020",2019,PG-13,159 min,Documentary
+s0106,Sample Title 106,TV Show,Director C,Mexico,"February 09, 2015",1997,TV-G,5 Seasons,Drama
+s0107,Sample Title 107,Movie,Not Listed,Canada,"October 07, 2020",2003,TV-MA,87 min,Thriller
+s0108,Sample Title 108,TV Show,Director C,Spain,"October 05, 2016",2014,TV-PG,5 Seasons,Children
+s0109,Sample Title 109,Movie,Not Listed,India,"March 11, 2019",1997,PG,107 min,Documentary
+s0110,Sample Title 110,TV Show,Director B,France,"March 22, 2020",1992,TV-Y7,4 Seasons,Sci-Fi
+s0111,Sample Title 111,TV Show,Director B,United States,"November 13, 2020",1999,PG,3 Seasons,Comedy
+s0112,Sample Title 112,Movie,Director A,Other,"June 16, 2017",1995,PG-13,91 min,Crime
+s0113,Sample Title 113,Movie,Director B,United Kingdom,"December 21, 2017",2019,TV-Y7,142 min,Sci-Fi
+s0114,Sample Title 114,Movie,Director B,France,"July 03, 2018",2015,TV-Y7,121 min,Action
+s0115,Sample Title 115,Movie,Director A,India,"July 23, 2021",2010,TV-MA,99 min,International
+s0116,Sample Title 116,TV Show,Director C,Japan,"November 01, 2016",2017,TV-Y7,6 Seasons,Comedy
+s0117,Sample Title 117,TV Show,,United Kingdom,"February 14, 2019",2015,R,1 Seasons,Crime
+s0118,Sample Title 118,TV Show,Not Listed,Canada,"June 22, 2021",1995,TV-14,5 Seasons,Crime
+s0119,Sample Title 119,Movie,Director C,United States,"December 19, 2016",2018,TV-14,158 min,Thriller
+s0120,Sample Title 120,TV Show,Director A,United States,"December 07, 2017",2007,TV-14,3 Seasons,Thriller
+s0121,Sample Title 121,TV Show,Director C,United States,"May 09, 2020",2015,R,3 Seasons,Romance
+s0122,Sample Title 122,Movie,Director B,United States,"March 05, 2018",2018,PG,86 min,Sci-Fi
+s0123,Sample Title 123,Movie,Director A,Mexico,"September 07, 2015",2000,TV-MA,111 min,Sci-Fi
+s0124,Sample Title 124,TV Show,Director A,United States,"June 19, 2021",1993,TV-Y7,2 Seasons,Sci-Fi
+s0125,Sample Title 125,Movie,Director A,Other,"March 07, 2020",1997,R,91 min,Romance
+s0126,Sample Title 126,TV Show,Not Listed,India,"January 28, 2020",2003,TV-14,5 Seasons,Drama
+s0127,Sample Title 127,Movie,Director C,United States,"February 12, 2019",2016,PG-13,122 min,Crime
+s0128,Sample Title 128,TV Show,Director A,,"December 07, 2021",2017,TV-PG,7 Seasons,Comedy
+s0129,Sample Title 129,Movie,Director A,South Korea,"May 19, 2018",1990,TV-Y7,102 min,Action
+s0130,Sample Title 130,Movie,Director A,United Kingdom,"February 13, 2015",2006,R,115 min,Crime
+s0131,Sample Title 131,Movie,Director C,United Kingdom,"August 05, 2016",2003,TV-G,173 min,Thriller
+s0132,Sample Title 132,TV Show,Not Listed,Canada,"July 12, 2018",1997,R,7 Seasons,Documentary
+s0133,Sample Title 133,Movie,Director B,United States,"August 08, 2015",1993,TV-MA,92 min,International
+s0134,Sample Title 134,Movie,Not Listed,Other,"April 09, 2020",2000,TV-MA,152 min,Romance
+s0135,Sample Title 135,Movie,Director A,Other,"September 14, 2021",2020,R,173 min,Children
+s0136,Sample Title 136,TV Show,Not Listed,South Korea,"September 17, 2017",2000,TV-14,4 Seasons,Documentary
+s0137,Sample Title 137,Movie,Not Listed,United States,"December 18, 2019",2006,TV-PG,179 min,Action
+s0138,Sample Title 138,TV Show,Director B,South Korea,"May 07, 2017",2012,TV-Y7,4 Seasons,Sci-Fi
+s0139,Sample Title 139,Movie,Director C,,"March 14, 2017",2001,,145 min,Thriller
+s0140,Sample Title 140,Movie,Director C,United States,"May 04, 2016",2021,TV-Y7,179 min,Thriller
+s0141,Sample Title 141,Movie,Not Listed,United States,"November 16, 2019",2020,TV-14,87 min,Thriller
+s0142,Sample Title 142,Movie,Not Listed,India,"February 02, 2019",1998,TV-Y7,156 min,Sci-Fi
+s0143,Sample Title 143,TV Show,Director C,Mexico,"September 02, 2019",2005,PG-13,5 Seasons,Children
+s0144,Sample Title 144,Movie,Director C,Canada,"May 03, 2021",1999,TV-MA,87 min,Romance
+s0145,Sample Title 145,Movie,Director B,Canada,"February 23, 2015",1999,TV-14,174 min,Documentary
+s0146,Sample Title 146,TV Show,Director A,India,"September 07, 2016",1991,TV-14,7 Seasons,Sci-Fi
+s0147,Sample Title 147,Movie,Not Listed,India,"December 18, 2017",2009,TV-PG,76 min,Action
+s0148,Sample Title 148,Movie,Director C,India,"January 23, 2020",2006,TV-PG,90 min,Romance
+s0149,Sample Title 149,TV Show,Not Listed,Other,"August 12, 2017",1991,PG-13,1 Seasons,Action
+s0150,Sample Title 150,Movie,Not Listed,United States,"August 30, 2021",1998,TV-14,147 min,Romance
+s0151,Sample Title 151,Movie,Director C,Mexico,"June 18, 2019",2019,PG,112 min,Children
+s0152,Sample Title 152,TV Show,Director B,United Kingdom,"October 11, 2016",1997,TV-14,3 Seasons,International
+s0153,Sample Title 153,Movie,,India,"June 05, 2021",1994,TV-PG,128 min,Action
+s0154,Sample Title 154,Movie,Director B,Canada,"January 30, 2016",2005,PG,130 min,Sci-Fi
+s0155,Sample Title 155,Movie,Director C,United Kingdom,"September 21, 2018",2021,TV-MA,160 min,Romance
+s0156,Sample Title 156,TV Show,Director A,Mexico,"September 09, 2021",1997,TV-MA,1 Seasons,Thriller
+s0157,Sample Title 157,Movie,Director A,Other,"January 06, 2016",2011,TV-Y7,174 min,Crime
+s0158,Sample Title 158,Movie,Not Listed,India,"May 07, 2017",2014,R,161 min,Thriller
+s0159,Sample Title 159,TV Show,Director C,United States,"March 01, 2017",1997,TV-PG,5 Seasons,Drama
+s0160,Sample Title 160,TV Show,Director B,Japan,"October 19, 2016",2013,R,5 Seasons,International
+s0161,Sample Title 161,Movie,Not Listed,Other,"October 24, 2018",2001,PG,108 min,International
+s0162,Sample Title 162,Movie,Director C,United States,"January 19, 2016",2010,TV-PG,83 min,Thriller
+s0163,Sample Title 163,Movie,Director C,Japan,"October 10, 2020",2010,PG-13,162 min,Documentary
+s0164,Sample Title 164,TV Show,Director B,Japan,"December 27, 2021",2007,TV-14,7 Seasons,Children
+s0165,Sample Title 165,Movie,Not Listed,Canada,"August 27, 2015",1992,PG-13,110 min,Action
+s0166,Sample Title 166,Movie,Director C,United States,"July 14, 2015",2016,PG,92 min,Sci-Fi
+s0167,Sample Title 167,TV Show,Director C,Canada,"October 09, 2020",2000,,3 Seasons,International
+s0168,Sample Title 168,TV Show,,Other,"February 26, 2018",1995,TV-G,4 Seasons,Thriller
+s0169,Sample Title 169,Movie,Director B,United States,"July 08, 2020",1991,PG,144 min,Thriller
+s0170,Sample Title 170,TV Show,Not Listed,United States,"June 05, 2015",2008,TV-G,4 Seasons,Children
+s0171,Sample Title 171,Movie,Not Listed,Other,"July 11, 2017",2011,TV-14,118 min,Children
+s0172,Sample Title 172,TV Show,Not Listed,United States,"May 29, 2019",1990,TV-MA,5 Seasons,Comedy
+s0173,Sample Title 173,Movie,Not Listed,Mexico,"September 01, 2017",2006,TV-MA,102 min,Comedy
+s0174,Sample Title 174,Movie,Director A,United Kingdom,"May 15, 2018",1997,PG,178 min,Documentary
+s0175,Sample Title 175,TV Show,Director A,United States,"September 01, 2021",2010,R,6 Seasons,Documentary
+s0176,Sample Title 176,Movie,Not Listed,Mexico,"December 20, 2019",1995,TV-PG,128 min,Drama
+s0177,Sample Title 177,Movie,Director B,India,"April 17, 2017",2012,TV-PG,139 min,Documentary
+s0178,Sample Title 178,TV Show,Director A,United Kingdom,"June 30, 2020",2002,TV-MA,4 Seasons,Romance
+s0179,Sample Title 179,TV Show,Director C,India,"September 25, 2018",2019,TV-Y7,5 Seasons,Children
+s0180,Sample Title 180,Movie,Director A,Japan,"July 15, 2021",1994,PG-13,173 min,Sci-Fi
+s0181,Sample Title 181,TV Show,Director C,United States,"July 23, 2015",2000,TV-Y7,5 Seasons,Romance
+s0182,Sample Title 182,Movie,Not Listed,India,"June 10, 2015",1993,TV-14,131 min,Action
+s0183,Sample Title 183,Movie,Director A,Other,"January 27, 2016",2019,PG-13,123 min,Thriller
+s0184,Sample Title 184,Movie,Director B,United States,"February 07, 2017",2018,PG-13,128 min,Documentary
+s0185,Sample Title 185,Movie,Director A,South Korea,"December 29, 2017",1998,PG,84 min,Thriller
+s0186,Sample Title 186,TV Show,Director A,India,"February 09, 2016",2011,TV-MA,5 Seasons,International
+s0187,Sample Title 187,Movie,Director A,Spain,"August 30, 2016",2016,TV-Y7,118 min,Drama
+s0188,Sample Title 188,Movie,Not Listed,United States,"June 03, 2019",2007,TV-Y7,121 min,International
+s0189,Sample Title 189,Movie,Director B,Other,"March 21, 2019",2006,TV-MA,127 min,Drama
+s0190,Sample Title 190,TV Show,Director A,India,"January 12, 2020",1997,,2 Seasons,Comedy
+s0191,Sample Title 191,Movie,Director B,United States,"November 20, 2016",1992,TV-G,120 min,Thriller
+s0192,Sample Title 192,Movie,Not Listed,United States,"May 25, 2018",2018,TV-MA,87 min,Drama
+s0193,Sample Title 193,Movie,Director C,United States,"October 04, 2020",2018,PG,111 min,Crime
+s0194,Sample Title 194,Movie,Director A,United Kingdom,"January 01, 2016",2010,,176 min,Romance
+s0195,Sample Title 195,Movie,Director B,India,"September 19, 2019",2000,PG-13,98 min,Drama
+s0196,Sample Title 196,TV Show,Director B,France,"March 30, 2016",2001,PG,2 Seasons,Drama
+s0197,Sample Title 197,TV Show,Not Listed,India,"April 14, 2015",2013,TV-PG,6 Seasons,Romance
+s0198,Sample Title 198,Movie,Director A,United States,"March 18, 2015",2018,TV-14,155 min,Thriller
+s0199,Sample Title 199,TV Show,Director C,Japan,"August 18, 2015",2018,R,4 Seasons,Thriller
+s0200,Sample Title 200,TV Show,,South Korea,"April 21, 2020",2014,TV-PG,6 Seasons,Romance
+s0201,Sample Title 201,TV Show,Director A,United States,"July 06, 2021",2010,PG-13,2 Seasons,International
+s0202,Sample Title 202,Movie,Director C,United States,"April 20, 2018",1992,TV-Y7,109 min,Crime
+s0203,Sample Title 203,Movie,Director B,United States,"June 11, 2017",1995,TV-MA,99 min,Sci-Fi
+s0204,Sample Title 204,Movie,Director B,Canada,"April 23, 2019",2018,PG-13,77 min,Action
+s0205,Sample Title 205,Movie,Director C,,"September 05, 2020",2009,PG,176 min,Crime
+s0206,Sample Title 206,TV Show,Director C,India,"August 03, 2019",1990,TV-14,1 Seasons,Thriller
+s0207,Sample Title 207,TV Show,Not Listed,France,"October 26, 2015",1993,PG,4 Seasons,Sci-Fi
+s0208,Sample Title 208,TV Show,Director A,Spain,"August 14, 2017",2011,R,6 Seasons,Comedy
+s0209,Sample Title 209,Movie,Director A,Japan,"January 19, 2018",1990,R,98 min,Documentary
+s0210,Sample Title 210,Movie,Not Listed,Mexico,"December 02, 2021",1995,TV-14,103 min,Drama
+s0211,Sample Title 211,TV Show,Director B,United States,"November 10, 2021",2007,TV-G,3 Seasons,Romance
+s0212,Sample Title 212,TV Show,Director C,United States,"January 14, 2019",2012,TV-PG,1 Seasons,Romance
+s0213,Sample Title 213,Movie,Director C,United States,"December 31, 2015",2010,,174 min,Drama
+s0214,Sample Title 214,TV Show,Director C,United States,"August 26, 2019",1997,R,2 Seasons,Documentary
+s0215,Sample Title 215,TV Show,Director B,United Kingdom,"December 17, 2015",2012,R,4 Seasons,Action
+s0216,Sample Title 216,Movie,Director C,Other,"April 19, 2021",1997,TV-Y7,164 min,Documentary
+s0217,Sample Title 217,Movie,Director C,United States,"March 19, 2020",2000,TV-MA,176 min,Sci-Fi
+s0218,Sample Title 218,Movie,Not Listed,United States,"October 08, 2017",2013,TV-Y7,139 min,Documentary
+s0219,Sample Title 219,Movie,Director B,,"November 11, 2021",2010,TV-Y7,158 min,Sci-Fi
+s0220,Sample Title 220,Movie,Director A,Other,"May 13, 2016",2017,TV-G,102 min,Documentary
+s0221,Sample Title 221,TV Show,Not Listed,United States,"August 07, 2017",2011,TV-PG,7 Seasons,Action
+s0222,Sample Title 222,Movie,Not Listed,United Kingdom,"June 17, 2020",2008,TV-G,155 min,Action
+s0223,Sample Title 223,Movie,Director A,United States,"August 08, 2020",1992,TV-G,178 min,Thriller
+s0224,Sample Title 224,Movie,Not Listed,United States,"May 22, 2016",2001,TV-14,166 min,Drama
+s0225,Sample Title 225,Movie,Director B,Other,"August 20, 2018",1998,TV-PG,132 min,Action
+s0226,Sample Title 226,TV Show,Director C,Other,"December 23, 2021",1997,TV-MA,4 Seasons,Sci-Fi
+s0227,Sample Title 227,Movie,Director B,,"June 15, 2015",2021,,101 min,Action
+s0228,Sample Title 228,Movie,Director A,Other,"November 14, 2021",2002,R,127 min,Thriller
+s0229,Sample Title 229,TV Show,Director A,Japan,"July 08, 2017",2018,R,2 Seasons,Romance
+s0230,Sample Title 230,Movie,Not Listed,Mexico,"April 24, 2015",2010,TV-MA,133 min,Sci-Fi
+s0231,Sample Title 231,Movie,Director B,India,"September 18, 2017",2015,TV-G,121 min,Thriller
+s0232,Sample Title 232,Movie,Director B,United Kingdom,"May 05, 2020",2006,TV-Y7,168 min,International
+s0233,Sample Title 233,Movie,Director A,United Kingdom,"March 04, 2021",2008,TV-14,179 min,International
+s0234,Sample Title 234,Movie,Director B,South Korea,"June 12, 2018",2005,TV-G,108 min,Comedy
+s0235,Sample Title 235,Movie,Director A,United States,"May 29, 2016",1996,R,111 min,Documentary
+s0236,Sample Title 236,Movie,Director B,United States,"May 16, 2018",2013,PG-13,80 min,Drama
+s0237,Sample Title 237,TV Show,Director B,United States,"December 09, 2016",1998,TV-Y7,7 Seasons,Children
+s0238,Sample Title 238,Movie,Director B,South Korea,"December 25, 2020",1990,R,170 min,Crime
+s0239,Sample Title 239,Movie,Director A,,"December 05, 2015",2010,PG-13,170 min,Thriller
+s0240,Sample Title 240,Movie,Not Listed,South Korea,"March 09, 2015",1995,TV-G,99 min,Romance
+s0241,Sample Title 241,Movie,Director B,Other,"May 16, 2019",2020,TV-MA,107 min,Crime
+s0242,Sample Title 242,Movie,Director A,United States,"April 14, 2019",2020,TV-MA,129 min,Romance
+s0243,Sample Title 243,Movie,Director A,South Korea,"January 18, 2016",2019,TV-Y7,132 min,Crime
+s0244,Sample Title 244,TV Show,,India,"January 19, 2015",2001,R,7 Seasons,Thriller
+s0245,Sample Title 245,Movie,Director B,Mexico,"October 22, 2020",1990,TV-PG,131 min,Children
+s0246,Sample Title 246,Movie,Not Listed,United States,"July 26, 2016",2019,PG-13,86 min,Crime
+s0247,Sample Title 247,Movie,Director A,South Korea,"July 23, 2018",2003,TV-14,90 min,Thriller
+s0248,Sample Title 248,TV Show,Director A,France,"March 08, 2021",2020,R,3 Seasons,Action
+s0249,Sample Title 249,Movie,Director C,Other,"April 27, 2020",2020,TV-14,174 min,Children
+s0250,Sample Title 250,Movie,Director A,South Korea,"October 12, 2016",2017,R,151 min,Sci-Fi
+s0251,Sample Title 251,Movie,Not Listed,United Kingdom,"July 04, 2019",1999,TV-PG,81 min,Romance
+s0252,Sample Title 252,TV Show,Director C,Japan,"September 20, 2017",2002,TV-PG,4 Seasons,International
+s0253,Sample Title 253,Movie,Director C,Mexico,"August 31, 2018",2017,TV-Y7,125 min,Documentary
+s0254,Sample Title 254,TV Show,Director C,United Kingdom,"June 19, 2017",2000,TV-Y7,1 Seasons,International
+s0255,Sample Title 255,Movie,Director B,United States,"August 12, 2019",1995,TV-PG,106 min,Children
+s0256,Sample Title 256,Movie,Director B,Other,"May 05, 2019",2007,PG,149 min,Sci-Fi
+s0257,Sample Title 257,Movie,Director A,South Korea,"April 07, 2020",2019,TV-PG,82 min,Romance
+s0258,Sample Title 258,Movie,Director C,South Korea,"November 17, 2019",2012,TV-MA,171 min,Sci-Fi
+s0259,Sample Title 259,Movie,Not Listed,United States,"February 10, 2018",2008,,161 min,Crime
+s0260,Sample Title 260,Movie,Director B,South Korea,"January 26, 2021",1993,PG,163 min,Romance
+s0261,Sample Title 261,TV Show,Not Listed,India,"April 28, 2020",2009,TV-G,5 Seasons,Crime
+s0262,Sample Title 262,Movie,Not Listed,South Korea,"November 03, 2017",2021,PG-13,160 min,Thriller
+s0263,Sample Title 263,Movie,Director B,United States,"October 05, 2019",1994,TV-G,133 min,Children
+s0264,Sample Title 264,Movie,Director B,South Korea,"October 15, 2015",2006,TV-14,78 min,Thriller
+s0265,Sample Title 265,Movie,Director B,Other,"February 14, 2021",2018,TV-G,178 min,Comedy
+s0266,Sample Title 266,Movie,Director B,United States,"May 10, 2019",2013,,141 min,Sci-Fi
+s0267,Sample Title 267,Movie,Director C,Other,"October 12, 2019",2012,TV-G,103 min,Crime
+s0268,Sample Title 268,Movie,,India,"November 23, 2021",2012,R,179 min,Action
+s0269,Sample Title 269,TV Show,Director C,Mexico,"January 03, 2018",2001,PG,5 Seasons,Thriller
+s0270,Sample Title 270,TV Show,Director C,Spain,"May 13, 2021",1999,TV-MA,2 Seasons,Comedy
+s0271,Sample Title 271,Movie,Director A,United Kingdom,"July 28, 2017",2015,TV-Y7,172 min,Drama
+s0272,Sample Title 272,Movie,Director C,Canada,"December 19, 2018",2015,R,102 min,International
+s0273,Sample Title 273,Movie,Director B,Mexico,"July 24, 2016",2017,TV-MA,151 min,Romance
+s0274,Sample Title 274,Movie,Not Listed,India,"September 27, 2017",2019,,153 min,Comedy
+s0275,Sample Title 275,Movie,,India,"April 20, 2018",2006,,161 min,Children
+s0276,Sample Title 276,Movie,Director A,South Korea,"November 10, 2021",2006,PG-13,118 min,Thriller
+s0277,Sample Title 277,TV Show,Director B,Spain,"July 06, 2017",2015,PG,2 Seasons,Children
+s0278,Sample Title 278,Movie,Not Listed,Spain,"February 18, 2020",2010,TV-G,78 min,International
+s0279,Sample Title 279,Movie,Not Listed,Spain,"April 12, 2017",2012,TV-G,164 min,Action
+s0280,Sample Title 280,Movie,Director C,India,"February 18, 2021",2015,TV-PG,178 min,Sci-Fi
+s0281,Sample Title 281,Movie,Not Listed,,"August 06, 2019",2018,TV-PG,83 min,Sci-Fi
+s0282,Sample Title 282,Movie,Director C,,"September 07, 2016",2000,TV-PG,79 min,Children
+s0283,Sample Title 283,Movie,Director C,United Kingdom,"February 10, 2016",2002,PG-13,130 min,Crime
+s0284,Sample Title 284,Movie,Director B,United States,"October 16, 2019",1993,R,170 min,Action
+s0285,Sample Title 285,TV Show,Director B,India,"April 03, 2015",2008,TV-14,4 Seasons,Sci-Fi
+s0286,Sample Title 286,Movie,Director A,India,"October 13, 2021",1991,TV-PG,124 min,Action
+s0287,Sample Title 287,Movie,Director B,India,"October 15, 2016",2004,PG,149 min,Comedy
+s0288,Sample Title 288,Movie,Director B,South Korea,"March 09, 2016",2007,PG,89 min,Action
+s0289,Sample Title 289,Movie,Director C,India,"February 09, 2018",1999,TV-PG,106 min,Documentary
+s0290,Sample Title 290,Movie,Director B,India,"January 10, 2016",2008,TV-G,102 min,International
+s0291,Sample Title 291,TV Show,Director C,United States,"December 02, 2017",1990,TV-PG,6 Seasons,Sci-Fi
+s0292,Sample Title 292,TV Show,Director C,India,"July 26, 2015",1991,TV-14,1 Seasons,Action
+s0293,Sample Title 293,TV Show,Director B,,"February 18, 2017",2016,TV-PG,1 Seasons,Children
+s0294,Sample Title 294,Movie,Director A,United States,"August 12, 2018",2001,TV-14,133 min,Drama
+s0295,Sample Title 295,Movie,Director A,Japan,"February 15, 2018",1994,PG,164 min,Documentary
+s0296,Sample Title 296,Movie,Not Listed,South Korea,"June 15, 2016",2006,TV-PG,145 min,Documentary
+s0297,Sample Title 297,Movie,Not Listed,Japan,"January 22, 2021",2014,PG-13,180 min,Crime
+s0298,Sample Title 298,TV Show,Director B,India,"March 31, 2015",1996,TV-Y7,1 Seasons,Action
+s0299,Sample Title 299,Movie,Director A,India,"January 22, 2018",2009,PG-13,100 min,Crime
+s0300,Sample Title 300,Movie,Director C,Mexico,"January 13, 2015",1992,PG,99 min,Crime
+s0301,Sample Title 301,Movie,Not Listed,United Kingdom,"February 01, 2020",1991,TV-14,84 min,Drama
+s0302,Sample Title 302,Movie,Director C,India,"March 15, 2017",2007,PG-13,119 min,Comedy
+s0303,Sample Title 303,Movie,Not Listed,United States,"August 02, 2017",2007,TV-14,157 min,Action
+s0304,Sample Title 304,Movie,,India,"February 01, 2020",2010,PG-13,85 min,Thriller
+s0305,Sample Title 305,Movie,Director A,India,"May 30, 2019",2013,PG-13,151 min,Sci-Fi
+s0306,Sample Title 306,TV Show,Not Listed,India,"May 13, 2020",2021,TV-14,5 Seasons,Crime
+s0307,Sample Title 307,TV Show,,Japan,"November 18, 2017",2006,R,4 Seasons,International
+s0308,Sample Title 308,Movie,Director C,United Kingdom,"October 23, 2015",2000,PG-13,169 min,Romance
+s0309,Sample Title 309,Movie,Director B,Japan,"July 14, 2017",2015,,102 min,International
+s0310,Sample Title 310,Movie,Director A,Spain,"October 01, 2016",1998,TV-Y7,149 min,Drama
+s0311,Sample Title 311,Movie,Director B,France,"July 15, 2021",2004,PG,139 min,Drama
+s0312,Sample Title 312,Movie,Director A,,"September 19, 2016",1992,R,123 min,Children
+s0313,Sample Title 313,Movie,Director C,Other,"October 22, 2021",1990,TV-14,121 min,Comedy
+s0314,Sample Title 314,Movie,Director C,United States,"March 13, 2018",2020,R,126 min,Sci-Fi
+s0315,Sample Title 315,Movie,Director B,United States,"July 30, 2017",2016,TV-MA,176 min,Crime
+s0316,Sample Title 316,Movie,Director C,United States,"April 09, 2017",2012,TV-MA,162 min,International
+s0317,Sample Title 317,Movie,Not Listed,Japan,"November 06, 2019",2003,PG-13,128 min,Romance
+s0318,Sample Title 318,TV Show,Director A,Other,"September 02, 2017",1995,PG-13,4 Seasons,Drama
+s0319,Sample Title 319,TV Show,Director C,United States,"August 12, 2017",1995,TV-PG,1 Seasons,Drama
+s0320,Sample Title 320,Movie,Not Listed,Other,"June 16, 2018",1998,TV-Y7,121 min,Comedy
+s0321,Sample Title 321,TV Show,Director B,United States,"August 09, 2017",2007,PG,7 Seasons,Romance
+s0322,Sample Title 322,Movie,Not Listed,Other,"August 01, 2017",2012,R,179 min,Romance
+s0323,Sample Title 323,TV Show,Director B,India,"January 11, 2021",2011,TV-MA,6 Seasons,Comedy
+s0324,Sample Title 324,TV Show,Director B,United States,"April 19, 2018",1998,PG-13,2 Seasons,Drama
+s0325,Sample Title 325,Movie,Director A,United Kingdom,"November 05, 2020",2020,TV-G,100 min,Sci-Fi
+s0326,Sample Title 326,Movie,Director A,United States,"March 15, 2019",2013,TV-G,79 min,Action
+s0327,Sample Title 327,Movie,Not Listed,United States,"January 01, 2018",2007,PG,158 min,Action
+s0328,Sample Title 328,Movie,Director A,United States,"June 28, 2015",2009,R,126 min,Comedy
+s0329,Sample Title 329,Movie,Director A,Spain,"March 09, 2021",2003,PG-13,179 min,Romance
+s0330,Sample Title 330,Movie,Director A,United Kingdom,"January 03, 2020",1997,PG-13,149 min,Crime
+s0331,Sample Title 331,Movie,Not Listed,United States,"June 11, 2018",2001,TV-MA,128 min,Comedy
+s0332,Sample Title 332,TV Show,Director C,Japan,"April 09, 2016",2014,TV-MA,1 Seasons,Sci-Fi
+s0333,Sample Title 333,TV Show,Director A,Canada,"November 10, 2019",1990,PG-13,2 Seasons,Comedy
+s0334,Sample Title 334,Movie,Director A,United States,"May 15, 2018",1993,TV-14,112 min,Documentary
+s0335,Sample Title 335,Movie,Not Listed,India,"June 03, 2017",1991,PG-13,101 min,International
+s0336,Sample Title 336,Movie,Director C,,"August 10, 2021",1991,PG,172 min,Romance
+s0337,Sample Title 337,Movie,Director A,United States,"May 12, 2021",2017,PG-13,89 min,Children
+s0338,Sample Title 338,TV Show,Director B,South Korea,"August 24, 2021",2012,TV-PG,5 Seasons,Children
+s0339,Sample Title 339,Movie,Not Listed,United States,"August 25, 2018",2005,TV-Y7,95 min,Romance
+s0340,Sample Title 340,Movie,,United Kingdom,"July 13, 2019",1993,TV-PG,120 min,Sci-Fi
+s0341,Sample Title 341,Movie,Director A,South Korea,"August 02, 2017",2005,TV-PG,143 min,Documentary
+s0342,Sample Title 342,Movie,Director B,United States,"July 13, 2017",2005,TV-14,80 min,Documentary
+s0343,Sample Title 343,Movie,Director B,United Kingdom,"April 22, 2020",1995,TV-14,112 min,Drama
+s0344,Sample Title 344,TV Show,Not Listed,United States,"May 08, 2016",2003,TV-G,6 Seasons,International
+s0345,Sample Title 345,Movie,Not Listed,Other,"March 27, 2019",2002,PG-13,160 min,Action
+s0346,Sample Title 346,Movie,Director B,United Kingdom,"May 23, 2020",2009,TV-PG,136 min,Thriller
+s0347,Sample Title 347,Movie,,Spain,"December 30, 2017",2010,TV-14,156 min,Sci-Fi
+s0348,Sample Title 348,TV Show,Director B,United Kingdom,"August 08, 2021",1991,TV-MA,6 Seasons,Thriller
+s0349,Sample Title 349,TV Show,Director A,United States,"December 31, 2019",2001,PG-13,2 Seasons,Thriller
+s0350,Sample Title 350,Movie,Director B,Japan,"February 01, 2017",2010,PG,120 min,Romance
+s0351,Sample Title 351,Movie,Director B,Other,"May 12, 2021",2006,TV-Y7,87 min,Children
+s0352,Sample Title 352,Movie,Director C,Japan,"February 19, 2015",2017,R,169 min,Children
+s0353,Sample Title 353,Movie,Director B,France,"June 24, 2017",2011,PG-13,168 min,Action
+s0354,Sample Title 354,TV Show,Director B,Mexico,"July 17, 2016",1995,R,3 Seasons,Romance
+s0355,Sample Title 355,Movie,Director C,United States,"February 21, 2017",1992,TV-PG,168 min,Thriller
+s0356,Sample Title 356,Movie,Not Listed,United States,"December 07, 2021",2010,TV-Y7,80 min,Crime
+s0357,Sample Title 357,Movie,Director C,Japan,"August 02, 2020",1990,R,167 min,Children
+s0358,Sample Title 358,Movie,Director A,India,"January 06, 2020",2008,TV-PG,82 min,Sci-Fi
+s0359,Sample Title 359,Movie,Director C,France,"August 06, 2016",2020,TV-MA,118 min,Sci-Fi
+s0360,Sample Title 360,TV Show,Director A,Other,"August 12, 2018",2008,R,5 Seasons,Drama
+s0361,Sample Title 361,Movie,,India,"August 24, 2015",2002,TV-Y7,107 min,Comedy
+s0362,Sample Title 362,Movie,Director C,United States,"October 04, 2020",2010,TV-G,155 min,Crime
+s0363,Sample Title 363,Movie,Director C,Spain,"April 26, 2020",2004,PG-13,149 min,Children
+s0364,Sample Title 364,Movie,Not Listed,United States,"December 26, 2015",2007,TV-PG,151 min,Documentary
+s0365,Sample Title 365,Movie,Director A,France,"April 14, 2020",2020,PG-13,124 min,Children
+s0366,Sample Title 366,Movie,Director C,India,"April 20, 2015",2002,TV-Y7,85 min,Drama
+s0367,Sample Title 367,TV Show,Director A,South Korea,"July 11, 2015",2020,TV-14,7 Seasons,Sci-Fi
+s0368,Sample Title 368,Movie,Director C,United States,"June 22, 2017",2018,TV-PG,102 min,Thriller
+s0369,Sample Title 369,Movie,Director B,Japan,"January 21, 2018",1996,R,144 min,Documentary
+s0370,Sample Title 370,Movie,Director C,India,"May 11, 2017",1992,TV-PG,115 min,Romance
+s0371,Sample Title 371,Movie,Not Listed,Japan,"December 19, 2017",1993,PG-13,90 min,International
+s0372,Sample Title 372,TV Show,Not Listed,United States,"October 11, 2016",1990,TV-MA,4 Seasons,Thriller
+s0373,Sample Title 373,TV Show,Director A,Canada,"February 08, 2015",1993,TV-PG,3 Seasons,International
+s0374,Sample Title 374,Movie,Director C,Mexico,"September 28, 2016",2011,R,122 min,Crime
+s0375,Sample Title 375,Movie,Director A,United States,"November 02, 2017",1992,TV-14,130 min,Comedy
+s0376,Sample Title 376,Movie,Director A,United States,"February 05, 2015",2000,,138 min,Documentary
+s0377,Sample Title 377,Movie,Director B,United States,"November 18, 2020",2017,PG,133 min,Action
+s0378,Sample Title 378,Movie,Director B,Japan,"September 23, 2018",1990,TV-MA,164 min,Documentary
+s0379,Sample Title 379,Movie,Not Listed,Japan,"June 06, 2020",2016,TV-G,136 min,Children
+s0380,Sample Title 380,Movie,Director A,United Kingdom,"June 15, 2015",1999,,150 min,Sci-Fi
+s0381,Sample Title 381,Movie,Not Listed,United States,"August 27, 2021",1993,TV-PG,85 min,Children
+s0382,Sample Title 382,TV Show,Director C,India,"February 23, 2020",2012,PG-13,5 Seasons,Children
+s0383,Sample Title 383,Movie,Director A,Japan,"January 31, 2015",2010,TV-Y7,163 min,Crime
+s0384,Sample Title 384,Movie,Director A,United Kingdom,"January 11, 2015",2018,PG-13,92 min,Thriller
+s0385,Sample Title 385,TV Show,Director C,Other,"July 04, 2020",2013,TV-G,3 Seasons,Action
+s0386,Sample Title 386,Movie,Director C,United States,"November 13, 2020",2015,R,161 min,Action
+s0387,Sample Title 387,TV Show,Not Listed,South Korea,"November 05, 2021",1999,PG-13,7 Seasons,Children
+s0388,Sample Title 388,Movie,Not Listed,India,"February 17, 2021",1995,TV-MA,176 min,International
+s0389,Sample Title 389,Movie,Director C,India,"April 30, 2016",2014,PG-13,156 min,Crime
+s0390,Sample Title 390,TV Show,Not Listed,Canada,"July 13, 2018",2015,R,2 Seasons,Children
+s0391,Sample Title 391,TV Show,Director C,South Korea,"December 18, 2018",2021,PG,6 Seasons,Comedy
+s0392,Sample Title 392,TV Show,Director A,Other,"April 04, 2021",2003,TV-PG,4 Seasons,Sci-Fi
+s0393,Sample Title 393,Movie,Director A,United States,"April 27, 2020",2001,TV-Y7,103 min,Thriller
+s0394,Sample Title 394,Movie,Director B,United States,"May 17, 2020",2014,TV-G,133 min,Romance
+s0395,Sample Title 395,Movie,Director A,Canada,"January 26, 2020",2000,TV-PG,172 min,Comedy
+s0396,Sample Title 396,Movie,Director C,United Kingdom,"January 09, 2019",2019,PG-13,91 min,International
+s0397,Sample Title 397,TV Show,Not Listed,United States,"September 28, 2018",2017,,3 Seasons,Documentary
+s0398,Sample Title 398,Movie,Director B,United States,"September 17, 2017",2003,TV-PG,117 min,Documentary
+s0399,Sample Title 399,TV Show,Not Listed,United States,"April 04, 2017",2014,PG,5 Seasons,Comedy
+s0400,Sample Title 400,Movie,Director C,Other,"January 02, 2019",2014,PG-13,154 min,Children
+s0401,Sample Title 401,Movie,Director A,United States,"November 23, 2020",1993,TV-Y7,140 min,Romance
+s0402,Sample Title 402,Movie,Director B,India,"February 06, 2021",2018,R,108 min,Drama
+s0403,Sample Title 403,TV Show,Director C,,"February 09, 2021",2006,PG,7 Seasons,Drama
+s0404,Sample Title 404,TV Show,Director B,India,"August 14, 2015",2016,PG-13,5 Seasons,International
+s0405,Sample Title 405,TV Show,Director B,United States,"February 15, 2017",2000,PG,2 Seasons,Children
+s0406,Sample Title 406,Movie,Director A,United Kingdom,"January 17, 2018",2018,TV-PG,82 min,Action
+s0407,Sample Title 407,TV Show,Director C,United States,"November 18, 2016",2002,TV-Y7,6 Seasons,Action
+s0408,Sample Title 408,TV Show,Not Listed,Spain,"June 13, 2016",1990,R,4 Seasons,Thriller
+s0409,Sample Title 409,Movie,Director B,United States,"August 29, 2017",2018,PG-13,168 min,Romance
+s0410,Sample Title 410,Movie,Director B,United Kingdom,"July 24, 2017",1992,TV-MA,139 min,Romance
+s0411,Sample Title 411,Movie,Not Listed,Mexico,"November 23, 2018",2000,TV-G,117 min,Documentary
+s0412,Sample Title 412,TV Show,Director C,South Korea,"November 23, 2020",2020,R,7 Seasons,Crime
+s0413,Sample Title 413,TV Show,Director B,United Kingdom,"July 18, 2018",2020,TV-MA,1 Seasons,International
+s0414,Sample Title 414,Movie,Director B,India,"June 21, 2020",2008,PG,133 min,Drama
+s0415,Sample Title 415,TV Show,Director B,India,"March 07, 2019",2010,TV-14,4 Seasons,International
+s0416,Sample Title 416,TV Show,Director C,South Korea,"November 09, 2016",2004,R,2 Seasons,Action
+s0417,Sample Title 417,Movie,Director C,Other,"September 06, 2021",1999,PG,160 min,Action
+s0418,Sample Title 418,Movie,Not Listed,South Korea,"February 09, 2015",2000,TV-MA,167 min,Comedy
+s0419,Sample Title 419,TV Show,Director C,United Kingdom,"January 10, 2018",2011,TV-PG,6 Seasons,Thriller
+s0420,Sample Title 420,Movie,Director C,Canada,"April 24, 2017",2014,TV-PG,118 min,Romance
+s0421,Sample Title 421,TV Show,Director A,India,"October 10, 2019",2015,TV-14,1 Seasons,Sci-Fi
+s0422,Sample Title 422,Movie,Not Listed,United States,"February 26, 2021",2015,TV-G,111 min,International
+s0423,Sample Title 423,TV Show,Director B,United Kingdom,"March 22, 2016",1992,R,2 Seasons,Action
+s0424,Sample Title 424,TV Show,Director C,Other,"May 19, 2018",2005,R,4 Seasons,Crime
+s0425,Sample Title 425,TV Show,Director B,United States,"October 27, 2021",1991,R,5 Seasons,Documentary
+s0426,Sample Title 426,Movie,Director B,South Korea,"September 12, 2018",2007,TV-G,166 min,Drama
+s0427,Sample Title 427,TV Show,Director A,United States,"August 15, 2015",2004,PG,4 Seasons,Thriller
+s0428,Sample Title 428,TV Show,Director C,,"February 17, 2015",2018,TV-Y7,2 Seasons,Crime
+s0429,Sample Title 429,Movie,Not Listed,United States,"January 02, 2019",2001,TV-Y7,117 min,Thriller
+s0430,Sample Title 430,TV Show,Director C,India,"January 05, 2020",1993,TV-14,5 Seasons,Comedy
+s0431,Sample Title 431,Movie,Director B,Canada,"July 06, 2015",1994,R,162 min,Sci-Fi
+s0432,Sample Title 432,Movie,Not Listed,India,"July 20, 2021",2014,PG,116 min,Action
+s0433,Sample Title 433,Movie,Director C,South Korea,"March 21, 2021",2009,TV-PG,178 min,Documentary
+s0434,Sample Title 434,Movie,Director B,Spain,"December 10, 2021",1993,TV-MA,140 min,Crime
+s0435,Sample Title 435,Movie,Director B,Other,"April 16, 2020",1992,PG,129 min,Thriller
+s0436,Sample Title 436,TV Show,Director A,,"April 28, 2017",2012,TV-G,3 Seasons,Romance
+s0437,Sample Title 437,Movie,Director A,India,"July 25, 2020",1992,TV-Y7,96 min,Comedy
+s0438,Sample Title 438,TV Show,Director A,United States,"June 06, 2018",2016,TV-Y7,5 Seasons,Romance
+s0439,Sample Title 439,Movie,Director B,Other,"November 14, 2018",2012,TV-PG,101 min,Documentary
+s0440,Sample Title 440,Movie,Director C,Other,"September 05, 2017",1992,TV-PG,167 min,Crime
+s0441,Sample Title 441,Movie,Director A,United Kingdom,"June 01, 2019",1992,TV-G,141 min,Comedy
+s0442,Sample Title 442,TV Show,Director C,France,"October 13, 2017",2021,TV-MA,4 Seasons,Crime
+s0443,Sample Title 443,Movie,Director A,United Kingdom,"February 13, 2021",2001,TV-PG,87 min,Action
+s0444,Sample Title 444,Movie,,Japan,"February 25, 2020",2001,TV-14,119 min,Children
+s0445,Sample Title 445,TV Show,Not Listed,United States,"September 27, 2015",2016,TV-MA,2 Seasons,Comedy
+s0446,Sample Title 446,Movie,Director A,Canada,"June 19, 2019",2020,TV-PG,174 min,Romance
+s0447,Sample Title 447,Movie,Director B,United States,"November 06, 2015",2021,PG-13,83 min,Documentary
+s0448,Sample Title 448,Movie,Director A,France,"August 05, 2020",2014,PG,128 min,Sci-Fi
+s0449,Sample Title 449,TV Show,Director A,Spain,"April 24, 2019",2002,TV-PG,7 Seasons,Action
+s0450,Sample Title 450,Movie,Director B,South Korea,"December 31, 2017",1992,TV-14,101 min,Children
+s0451,Sample Title 451,TV Show,,United States,"August 23, 2019",2014,R,2 Seasons,Sci-Fi
+s0452,Sample Title 452,Movie,Director C,United States,"December 08, 2021",2007,TV-PG,75 min,Drama
+s0453,Sample Title 453,TV Show,Director A,United States,"December 16, 2018",2003,TV-Y7,1 Seasons,Action
+s0454,Sample Title 454,TV Show,Director B,India,"December 07, 2020",2019,,5 Seasons,Documentary
+s0455,Sample Title 455,TV Show,Director A,United States,"August 08, 2015",1993,TV-Y7,7 Seasons,Thriller
+s0456,Sample Title 456,Movie,,Other,"February 22, 2015",2005,R,141 min,Comedy
+s0457,Sample Title 457,TV Show,Director C,United Kingdom,"October 24, 2019",1990,TV-Y7,4 Seasons,Crime
+s0458,Sample Title 458,Movie,Director C,,"January 14, 2019",2004,,94 min,Documentary
+s0459,Sample Title 459,Movie,Not Listed,India,"July 25, 2019",1991,TV-PG,168 min,Comedy
+s0460,Sample Title 460,Movie,Director B,,"June 14, 2018",1993,TV-G,109 min,Sci-Fi
+s0461,Sample Title 461,TV Show,,Japan,"December 20, 2016",1993,TV-Y7,3 Seasons,Crime
+s0462,Sample Title 462,TV Show,Not Listed,United Kingdom,"February 10, 2016",2010,TV-MA,1 Seasons,International
+s0463,Sample Title 463,TV Show,Not Listed,Other,"October 05, 2021",2013,TV-G,7 Seasons,Romance
+s0464,Sample Title 464,Movie,Director B,United Kingdom,"April 13, 2021",2008,R,165 min,Drama
+s0465,Sample Title 465,Movie,Not Listed,Other,"March 13, 2015",2020,PG-13,164 min,Action
+s0466,Sample Title 466,TV Show,Director C,Mexico,"January 28, 2020",2001,TV-MA,6 Seasons,Documentary
+s0467,Sample Title 467,Movie,Director A,United States,"February 10, 2021",1999,TV-MA,91 min,Drama
+s0468,Sample Title 468,Movie,Director C,Other,"August 15, 2020",2017,TV-MA,92 min,Thriller
+s0469,Sample Title 469,Movie,Not Listed,United States,"May 14, 2018",1997,TV-MA,119 min,Comedy
+s0470,Sample Title 470,Movie,Director B,France,"April 17, 2019",2020,TV-G,167 min,Comedy
+s0471,Sample Title 471,Movie,Director B,India,"January 22, 2016",1990,TV-G,158 min,Documentary
+s0472,Sample Title 472,Movie,Director C,Mexico,"November 27, 2019",2021,TV-PG,127 min,Children
+s0473,Sample Title 473,Movie,Director B,Mexico,"November 29, 2016",1991,TV-Y7,165 min,Children
+s0474,Sample Title 474,Movie,Not Listed,Spain,"April 15, 2018",2018,,156 min,International
+s0475,Sample Title 475,TV Show,Director C,Spain,"April 06, 2017",2006,TV-PG,4 Seasons,Romance
+s0476,Sample Title 476,Movie,Director B,United States,"December 28, 2019",2021,TV-PG,139 min,Crime
+s0477,Sample Title 477,Movie,Director A,United States,"December 15, 2015",1992,PG-13,75 min,Thriller
+s0478,Sample Title 478,Movie,Director A,India,"July 02, 2018",2007,PG-13,132 min,Drama
+s0479,Sample Title 479,Movie,Not Listed,United States,"November 04, 2015",2021,TV-Y7,100 min,Children
+s0480,Sample Title 480,TV Show,Director B,South Korea,"February 24, 2018",2006,PG,5 Seasons,International
+s0481,Sample Title 481,TV Show,Not Listed,India,"May 14, 2020",2010,PG-13,4 Seasons,International
+s0482,Sample Title 482,Movie,Director C,Other,"May 23, 2021",2012,TV-Y7,161 min,Documentary
+s0483,Sample Title 483,Movie,Director A,Japan,"February 04, 2017",2004,TV-Y7,84 min,Thriller
+s0484,Sample Title 484,TV Show,Director C,France,"December 25, 2016",2010,TV-G,3 Seasons,Sci-Fi
+s0485,Sample Title 485,TV Show,Director B,United States,"June 08, 2019",2008,TV-14,3 Seasons,Crime
+s0486,Sample Title 486,Movie,Not Listed,Mexico,"January 18, 2016",2018,TV-G,115 min,Romance
+s0487,Sample Title 487,Movie,Not Listed,Other,"September 01, 2021",1991,PG,179 min,Action
+s0488,Sample Title 488,Movie,Not Listed,United Kingdom,"June 08, 2016",1998,PG-13,79 min,Documentary
+s0489,Sample Title 489,TV Show,Director C,Japan,"October 03, 2015",2020,,2 Seasons,Crime
+s0490,Sample Title 490,Movie,Director A,Spain,"December 22, 2021",2018,TV-PG,139 min,Action
+s0491,Sample Title 491,TV Show,Director C,United States,"December 03, 2015",2004,TV-PG,1 Seasons,Action
+s0492,Sample Title 492,Movie,Director C,United Kingdom,"May 27, 2020",2009,PG,96 min,Thriller
+s0493,Sample Title 493,Movie,Director B,India,"April 25, 2016",1998,TV-14,172 min,Thriller
+s0494,Sample Title 494,Movie,Director B,United States,"June 29, 2017",1996,TV-14,115 min,Drama
+s0495,Sample Title 495,Movie,Director B,India,"June 19, 2020",2004,TV-G,167 min,International
+s0496,Sample Title 496,Movie,Director A,United States,"September 13, 2018",2001,PG,142 min,Crime
+s0497,Sample Title 497,Movie,Director A,United States,"July 26, 2020",2008,PG-13,143 min,Documentary
+s0498,Sample Title 498,Movie,Director B,United States,"October 21, 2019",1992,TV-G,85 min,Comedy
+s0499,Sample Title 499,TV Show,Director B,Other,"April 19, 2015",2021,R,3 Seasons,Documentary
+s0500,Sample Title 500,Movie,Director A,United Kingdom,"November 24, 2015",2021,TV-14,95 min,Drama
+s0501,Sample Title 501,Movie,Not Listed,Other,"December 05, 2019",2012,TV-MA,173 min,Romance
+s0502,Sample Title 502,TV Show,Director A,India,"November 11, 2015",2007,TV-G,4 Seasons,International
+s0503,Sample Title 503,TV Show,Director A,United States,"February 08, 2018",1999,TV-PG,2 Seasons,Comedy
+s0504,Sample Title 504,TV Show,,United Kingdom,"February 19, 2017",2016,TV-G,3 Seasons,Children
+s0505,Sample Title 505,TV Show,Director B,India,"March 01, 2019",2011,PG,3 Seasons,Romance
+s0506,Sample Title 506,Movie,Not Listed,United States,"June 05, 2015",1995,TV-MA,134 min,Thriller
+s0507,Sample Title 507,Movie,Director A,Japan,"February 05, 2019",2019,PG,145 min,Action
+s0508,Sample Title 508,TV Show,Director B,United States,"September 21, 2019",2016,TV-Y7,7 Seasons,Children
+s0509,Sample Title 509,TV Show,Director C,Japan,"June 05, 2017",2020,TV-PG,7 Seasons,Documentary
+s0510,Sample Title 510,Movie,Director C,South Korea,"December 22, 2016",2013,TV-PG,145 min,Documentary
+s0511,Sample Title 511,TV Show,Director A,United States,"July 01, 2017",2009,TV-14,2 Seasons,Thriller
+s0512,Sample Title 512,Movie,Director C,United States,"May 20, 2017",2003,TV-G,114 min,Drama
+s0513,Sample Title 513,Movie,Not Listed,Spain,"January 13, 2015",2019,TV-14,79 min,Crime
+s0514,Sample Title 514,Movie,Director C,India,"May 12, 2016",2017,TV-MA,95 min,Children
+s0515,Sample Title 515,Movie,,United States,"October 23, 2019",1991,TV-G,152 min,Children
+s0516,Sample Title 516,Movie,Not Listed,Other,"April 04, 2021",1990,TV-Y7,78 min,Sci-Fi
+s0517,Sample Title 517,Movie,Director A,United States,"January 22, 2018",2002,PG,97 min,Romance
+s0518,Sample Title 518,TV Show,Director A,South Korea,"April 09, 2018",2015,TV-Y7,2 Seasons,International
+s0519,Sample Title 519,Movie,Not Listed,Other,"June 27, 2020",2021,TV-PG,158 min,Romance
+s0520,Sample Title 520,Movie,Not Listed,United States,"July 06, 2019",1994,TV-MA,89 min,Crime
+s0521,Sample Title 521,TV Show,Not Listed,United States,"May 10, 2019",2009,R,2 Seasons,Documentary
+s0522,Sample Title 522,TV Show,Director C,United States,"January 30, 2019",2002,TV-MA,4 Seasons,Documentary
+s0523,Sample Title 523,TV Show,Not Listed,United States,"May 23, 2015",2021,PG-13,5 Seasons,Documentary
+s0524,Sample Title 524,TV Show,Director B,United States,"May 09, 2018",2016,TV-MA,5 Seasons,Sci-Fi
+s0525,Sample Title 525,Movie,,South Korea,"December 01, 2021",2016,TV-Y7,82 min,Documentary
+s0526,Sample Title 526,Movie,Director A,United States,"July 18, 2016",2004,PG-13,115 min,Crime
+s0527,Sample Title 527,Movie,Director A,United Kingdom,"November 23, 2021",2003,PG-13,93 min,Thriller
+s0528,Sample Title 528,Movie,Director A,Other,"August 28, 2021",1998,TV-G,177 min,International
+s0529,Sample Title 529,Movie,Director C,France,"September 12, 2019",1991,TV-G,120 min,Crime
+s0530,Sample Title 530,Movie,Director B,Japan,"February 21, 2016",2017,PG-13,102 min,International
+s0531,Sample Title 531,TV Show,Not Listed,United States,"January 23, 2020",2016,R,6 Seasons,Crime
+s0532,Sample Title 532,Movie,Not Listed,Japan,"June 13, 2021",2021,TV-G,165 min,Documentary
+s0533,Sample Title 533,Movie,Director A,United Kingdom,"September 14, 2019",2021,,142 min,Thriller
+s0534,Sample Title 534,Movie,Director A,India,"October 22, 2018",2007,TV-Y7,89 min,Children
+s0535,Sample Title 535,TV Show,Director C,United States,"December 03, 2017",2014,TV-MA,3 Seasons,Romance
+s0536,Sample Title 536,Movie,Director B,,"February 10, 2020",2020,R,111 min,Action
+s0537,Sample Title 537,TV Show,Not Listed,India,"January 26, 2018",2017,TV-PG,1 Seasons,Thriller
+s0538,Sample Title 538,Movie,Director C,United States,"July 12, 2018",1997,TV-14,141 min,Children
+s0539,Sample Title 539,Movie,Not Listed,India,"December 12, 2019",2004,TV-Y7,98 min,Drama
+s0540,Sample Title 540,Movie,Director A,India,"December 27, 2020",1994,TV-G,101 min,Crime
+s0541,Sample Title 541,TV Show,Not Listed,France,"February 13, 2019",2020,TV-Y7,7 Seasons,Drama
+s0542,Sample Title 542,Movie,Director B,Canada,"October 13, 2017",2009,TV-MA,135 min,Children
+s0543,Sample Title 543,Movie,Director B,Spain,"August 10, 2017",1997,TV-14,110 min,Thriller
+s0544,Sample Title 544,Movie,Director A,United States,"March 13, 2015",2011,PG,172 min,Crime
+s0545,Sample Title 545,Movie,Director B,India,"August 18, 2019",2009,PG,167 min,Action
+s0546,Sample Title 546,TV Show,Director B,United Kingdom,"July 15, 2018",2001,TV-G,2 Seasons,Documentary
+s0547,Sample Title 547,TV Show,Director C,United States,"September 06, 2018",1993,R,4 Seasons,Crime
+s0548,Sample Title 548,Movie,Not Listed,United States,"November 24, 2020",2011,PG,141 min,Crime
+s0549,Sample Title 549,TV Show,Director A,Spain,"June 01, 2017",2006,TV-Y7,2 Seasons,Thriller
+s0550,Sample Title 550,TV Show,Director A,United States,"May 19, 2015",2014,PG,1 Seasons,Thriller
+s0551,Sample Title 551,TV Show,Director A,United Kingdom,"May 09, 2021",2006,TV-PG,1 Seasons,Children
+s0552,Sample Title 552,TV Show,Director A,United States,"February 13, 2019",2017,TV-PG,7 Seasons,Comedy
+s0553,Sample Title 553,TV Show,,United States,"September 29, 2021",2007,TV-G,5 Seasons,Crime
+s0554,Sample Title 554,TV Show,Director B,United States,"December 28, 2021",2007,TV-PG,4 Seasons,Romance
+s0555,Sample Title 555,Movie,Director C,Other,"January 02, 2017",2018,PG,97 min,Crime
+s0556,Sample Title 556,TV Show,Director A,Spain,"October 15, 2019",2002,R,5 Seasons,Children
+s0557,Sample Title 557,Movie,Director C,Other,"February 28, 2016",1994,PG-13,143 min,International
+s0558,Sample Title 558,TV Show,Director C,United Kingdom,"May 11, 2019",1990,PG-13,7 Seasons,Drama
+s0559,Sample Title 559,TV Show,Director B,United States,"January 25, 2016",2014,TV-G,6 Seasons,Documentary
+s0560,Sample Title 560,Movie,Director A,United Kingdom,"December 08, 2015",2009,TV-14,127 min,Comedy
+s0561,Sample Title 561,TV Show,Director B,India,"August 03, 2017",2012,PG-13,6 Seasons,Action
+s0562,Sample Title 562,Movie,Director A,France,"September 05, 2016",1996,PG-13,115 min,Action
+s0563,Sample Title 563,Movie,Director B,United States,"May 07, 2016",1994,TV-PG,131 min,Action
+s0564,Sample Title 564,TV Show,Director C,United Kingdom,"July 11, 2015",1990,TV-PG,5 Seasons,Thriller
+s0565,Sample Title 565,Movie,Director A,United States,"May 13, 2016",2001,PG,134 min,Action
+s0566,Sample Title 566,TV Show,Not Listed,India,"April 01, 2017",2008,TV-G,6 Seasons,Documentary
+s0567,Sample Title 567,TV Show,Director C,Canada,"October 02, 2019",2002,TV-14,6 Seasons,Drama
+s0568,Sample Title 568,Movie,Not Listed,India,"June 10, 2018",2003,TV-G,175 min,Action
+s0569,Sample Title 569,Movie,Director C,India,"May 22, 2020",2018,TV-MA,131 min,Crime
+s0570,Sample Title 570,Movie,Director B,India,"August 15, 2015",2001,TV-Y7,84 min,Crime
+s0571,Sample Title 571,Movie,Director A,India,"October 26, 2018",2006,TV-14,114 min,Thriller
+s0572,Sample Title 572,TV Show,Director C,Spain,"December 26, 2020",2015,TV-14,7 Seasons,Documentary
+s0573,Sample Title 573,Movie,Director B,Other,"March 27, 2017",2002,R,177 min,Drama
+s0574,Sample Title 574,Movie,Director A,Other,"January 13, 2019",2009,TV-G,112 min,Comedy
+s0575,Sample Title 575,Movie,Director A,Spain,"December 22, 2017",2017,PG,159 min,Children
+s0576,Sample Title 576,Movie,Director C,United States,"April 14, 2015",2020,R,135 min,Drama
+s0577,Sample Title 577,TV Show,Director A,South Korea,"February 18, 2020",1994,TV-14,4 Seasons,Children
+s0578,Sample Title 578,Movie,Director C,India,"May 20, 2017",2019,TV-14,77 min,International
+s0579,Sample Title 579,TV Show,Director A,United States,"October 29, 2016",2005,TV-14,3 Seasons,Children
+s0580,Sample Title 580,Movie,Not Listed,France,"August 04, 2020",1998,PG-13,160 min,Romance
+s0581,Sample Title 581,TV Show,Director B,United States,"September 30, 2015",2004,TV-G,7 Seasons,Crime
+s0582,Sample Title 582,Movie,Not Listed,Other,"October 26, 2017",2021,TV-Y7,142 min,Documentary
+s0583,Sample Title 583,Movie,Director C,India,"February 09, 2021",2005,TV-Y7,166 min,Sci-Fi
+s0584,Sample Title 584,TV Show,Not Listed,Japan,"November 17, 2017",2000,R,4 Seasons,Thriller
+s0585,Sample Title 585,Movie,Director C,,"April 23, 2019",2010,TV-14,112 min,Romance
+s0586,Sample Title 586,TV Show,Director A,Other,"October 20, 2015",1997,TV-Y7,3 Seasons,Children
+s0587,Sample Title 587,TV Show,Director A,Japan,"February 02, 2021",1992,TV-PG,7 Seasons,Action
+s0588,Sample Title 588,Movie,Director C,Japan,"October 06, 2020",1994,TV-G,110 min,Documentary
+s0589,Sample Title 589,Movie,Not Listed,United States,"July 16, 2018",1994,TV-Y7,115 min,Romance
+s0590,Sample Title 590,TV Show,Director A,United Kingdom,"November 04, 2015",1994,PG,5 Seasons,Thriller
+s0591,Sample Title 591,Movie,Director B,United States,"September 03, 2017",1994,TV-G,87 min,Crime
+s0592,Sample Title 592,Movie,Director A,Canada,"June 05, 2018",2010,PG,161 min,Documentary
+s0593,Sample Title 593,Movie,Director B,,"June 24, 2018",1995,TV-Y7,132 min,Thriller
+s0594,Sample Title 594,Movie,Not Listed,South Korea,"February 26, 2019",2001,TV-PG,124 min,International
+s0595,Sample Title 595,Movie,Director B,United States,"October 31, 2020",2018,PG,104 min,International
+s0596,Sample Title 596,TV Show,Director B,United States,"April 24, 2018",2005,PG-13,6 Seasons,Thriller
+s0597,Sample Title 597,TV Show,Director B,Canada,"April 18, 2021",2011,TV-Y7,5 Seasons,Romance
+s0598,Sample Title 598,TV Show,Director B,United States,"October 10, 2018",1995,PG-13,1 Seasons,Documentary
+s0599,Sample Title 599,TV Show,Director A,United States,"November 09, 2019",1996,TV-Y7,3 Seasons,Romance
+s0600,Sample Title 600,Movie,Director B,United States,"September 16, 2019",1991,TV-MA,125 min,Comedy
